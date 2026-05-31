@@ -1,4 +1,5 @@
 # camera-data-logger
+- for offline streaming
 ~/camera-data-logger/
 ├── camera/                 ← recordings go here
 ├── cpp_logger_startup.sh
